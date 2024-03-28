@@ -5,8 +5,5 @@ function aging()
     return age;
  }
  console.log("kjk");
- function valid()
-  {
-    return age>=18;
-  }
+ 
   console.log("End of fun");
