@@ -9,3 +9,4 @@ function aging()
   {
     return age>=18;
   }
+  console.log("End of fun");
