@@ -1,1 +1,5 @@
-const age=25;
+const age=27;
+function aging()
+ {
+    return age;
+ }
